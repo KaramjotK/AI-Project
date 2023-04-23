@@ -1,2 +1,1 @@
-# AI-Project
-#[ongoing]
+# AI-Project - [ONGOING]
